@@ -1,0 +1,21 @@
+#include <limits.h>
+
+CHAR_BIT   = number of bits in a char
+SCHAR_MIN  = minimum value for a signed char
+SCHAR_MAX  = maximum value for a signed char
+UCHAR_MAX  = maximum value for an unsigned char
+CHAR_MIN   = minimum value for a char
+CHAR_MAX   = maximum value for a char
+MB_LEN_MAX = maximum multibyte length of a character accross locales
+SHRT_MIN   = minimum value for a short
+SHRT_MAX   = maximum value for a short
+USHRT_MAX  = maximum value for an unsigned short
+INT_MIN    = minimum value for an int
+INT_MAX    = maximum value for an int
+UINT_MAX   = maximum value for an unsigned int
+LONG_MIN   = minimum value for a long
+LONG_MAX   = maximum value for a long
+ULONG_MAX  = maximum value for an unsigned long
+LLONG_MIN  = minimum value for a long long
+LLONG_MAX  = maximum value for a long long
+ULLONG_MAX = maximum value for an unsigned long long
