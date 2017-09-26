@@ -19,3 +19,11 @@ ULONG_MAX  = maximum value for an unsigned long
 LLONG_MIN  = minimum value for a long long
 LLONG_MAX  = maximum value for a long long
 ULLONG_MAX = maximum value for an unsigned long long
+
+#include<float.h>
+-FLT_MAX = most negative value of a float
+FLT_MAX  = max value of a float
+-DBL_MAX = most negative value of a double
+DBL_MAX  = max value of a double
+-LDBL_MAX = most negative value of a long double
+LDBL_MAX = max value of a long double
